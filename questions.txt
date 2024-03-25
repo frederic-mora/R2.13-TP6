@@ -1,0 +1,17 @@
+/*  OBJECTIF
+
+    Regardez la vidéo objectif.mp4
+
+    Via le backoffice, on souhaite pré-remplir le premier formulaire si un menu est déjà en base pour
+    la semaine et le jour sélectionné.
+
+    A ce stade, si vous avez compris ce que vous avez fait jusqu'à présent, vous devez y arriver
+    sans que l'on vous "guide" plus que ça.
+    Basez-vous sur le fonctionnement de la partie client pour procéder de manière similaire pour le backoffice.
+    Un clic correspond à l'événement onclick. Un changement à un événement onchange.
+    Enfin notez que la partie server est déjà en capacité de vous donner le menu d'un jour et d'un semaine.
+    Donc il n'y a pas lieu de la modifier.
+
+    ATTENTION : pensez à remplacer les ??? par votre identifiant 
+    dans server/model.php avant de tester quoi que ce soit !
+*/
