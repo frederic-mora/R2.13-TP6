@@ -1,0 +1,19 @@
+<div class="deleteMenu">
+    <h4 class="deleteMenu__title"># Supprimer un menu</h4>
+    <form class="deleteMenu__form">
+
+        <input required type="number" name="semaine" placeholder="semaine" min="1" max="52">
+        <select name="jour">
+            <option value="lundi">Lundi</option>
+            <option value="mardi">Mardi</option>
+            <option value="mercredi">Mercredi</option>
+            <option value="jeudi">Jeudi</option>
+            <option value="vendredi">Vendredi</option>
+            <option value="samedi">Samedi</option>
+            <option value="dimanche">Dimanche</option>
+        </select>
+
+        <input onclick="{{handler}}" type="button" value="Delete" name="todo">
+
+    </form>
+</div>
