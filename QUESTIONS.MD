@@ -84,5 +84,4 @@ Notez que l'on peut lire les valeurs contenues dans un objet FormData.
 Au besoin lisez la [documentation](https://developer.mozilla.org/en-US/docs/Web/API/FormData/get).
 
 **Q5. La touche finale**
-Il ne vous reste plus qu'à mettre à jour la fonction _C.start_ afin d'initialiser correctement
-Le composant _NewMenuForm_ avec le handler _C.handlerUpdate_ et dorénavant le handler _C.handlerSelect_.
+Il ne vous reste plus qu'à mettre à jour les fonctions _V.renderNewMenu_ et _C.start_ afin d'initialiser correctement le composant _NewMenuForm_ avec le handler _C.handlerUpdate_ et dorénavant le handler _C.handlerSelect_.
